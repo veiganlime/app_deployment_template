@@ -1,2 +1,5 @@
 # app_deployment_template
-This is template to deploy .apk file from kivy 
+
+- "apk_dev_template.ipynb" from .kv and .py to .apk
+
+
